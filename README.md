@@ -5,7 +5,8 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Hanoi, Vietnam
-* 🖥️  See my portfolio at [Lowkey Coder](http://lowkeycode.me/portfolio)
+* 🚀  See my personal website at [Lowkey Coder](https://lowkeycode.me)
+* 🖥️  See my portfolio at [Lowkey Coder/portfolio](https://lowkeycode.me/portfolio)
 * ✉️  You can contact me at [minhtran.2404@outlook.com](mailto:minhtran.2404@outlook.com)
 * 🧠  I'm learning .NET and React JS
 
