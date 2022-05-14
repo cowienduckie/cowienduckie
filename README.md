@@ -32,9 +32,3 @@ Web Developer
   <a href="https://www.github.com/cowienduckie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  
   <a href="https://www.facebook.com/cowienduckie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/cowienduckie"><img src="https://github-readme-stats.vercel.app/api?username=cowienduckie&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="cowienduckie's GitHub stats" /></a>
