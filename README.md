@@ -1,7 +1,7 @@
 Hi 👋 My name is Minh Tran
 ==========================
 
-Web Developer
+Software Engineer
 -------------
 
 * 🌍  I'm based in Hanoi, Vietnam
