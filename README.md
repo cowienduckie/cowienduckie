@@ -5,9 +5,9 @@ Software Engineer
 -------------
 
 * 🌍  I'm based in Hanoi, Vietnam
-* 🚀  See my personal website at [Lowkey Coder](https://lowkeycode.me)
-* 🖥️  See my portfolio at [Lowkey Coder/portfolio](https://lowkeycode.me/portfolio)
-* 💼  See my resume at [Lowkey Coder/resume](http://resume.lowkeycode.me/)
+* 🚀  See my personal website at [minhtran.tech](https://minhtran.tech)
+* 🖥️  See my portfolio at [minhtran.tech/portfolio](https://minhtran.tech/portfolio)
+* 💼  See my resume at [minhtran.tech/resume](http://resume.lminhtran.tech/)
 * ✉️  You can contact me at [minhtran.2404@outlook.com](mailto:minhtran.2404@outlook.com)
 * 🧠  I'm learning .NET and React JS
 
