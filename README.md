@@ -6,11 +6,10 @@ Software Engineer
 
 * 🌍  I'm based in Hanoi, Vietnam
 * 🚀  See my personal website at [minhtrandev.com)](https://minhtrandev.com)
-<!-- * 🖥️  See my portfolio at [minhtran.tech/portfolio](https://minhtran.tech/portfolio) -->
 * 💼  See my resume at [resume.minhtrandev.com](http://resume.minhtrandev.com/)
 * ✉️  You can contact me at [minhtran.2404@outlook.com](mailto:minhtran.2404@outlook.com)
 * 🧠  I'm learning .NET and React JS
-
+<!-- * 🖥️  See my portfolio at [minhtran.tech/portfolio](https://minhtran.tech/portfolio) -->
 ### Skills
 
 <p align="left">  
